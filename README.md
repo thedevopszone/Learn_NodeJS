@@ -17,3 +17,13 @@ npm run dev
 npm run start
 
 ```
+
+
+## Install Tailwind
+
+```
+npm install -D tailwindcss postcss autoprefixer
+```
+
+
+
