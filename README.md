@@ -67,6 +67,10 @@ export default function Home() {
 ```
 
 
+Start App
+```
+npm run dev
+```
 
 
 
