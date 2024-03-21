@@ -31,6 +31,8 @@ npx tailwindcss init -p
 ```
 
 
+
+
 vi tailwind.config.js
 ```
 /** @type {import('tailwindcss').Config} */
@@ -72,6 +74,20 @@ Start App
 npm run dev
 ```
 
+
+Code at: https://github.com/higracehuang/next-hello-world
+```
+git clone https://github.com/higracehuang/next-hello-world
+cd next-hello-world
+
+npm install
+
+npm run build
+
+npm run dev
+# or
+npm run start
+```
 
 
 
