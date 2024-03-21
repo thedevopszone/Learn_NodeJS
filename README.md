@@ -25,5 +25,14 @@ npm run start
 npm install -D tailwindcss postcss autoprefixer
 ```
 
+Create tailwind config files (postcss.config.js and tailwind.config.js)
+```
+npx tailwindcss init -p
+```
+
+
+
+
+
 
 
